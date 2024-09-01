@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "npm install",
-    "start": "node index.js"
+    "start": "npm install & node index.js"
   },
   "keywords": [
     "math"
